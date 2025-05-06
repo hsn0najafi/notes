@@ -18,6 +18,8 @@
     "workbench.tree.enableStickyScroll": false,
     "editor.stickyScroll.enabled": false,
     "workbench.activityBar.orientation": "vertical",
-    "editor.minimap.enabled": true,
     "workbench.colorTheme": "Default Dark Modern",
+    "editor.guides.highlightActiveIndentation": "always",
+    "editor.guides.bracketPairsHorizontal": true,
+    "editor.bracketPairColorization.enabled": true,
 }
